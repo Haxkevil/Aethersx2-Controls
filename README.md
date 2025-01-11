@@ -1,5 +1,5 @@
 # NetherSX2(Aethersx2)-Controls
-Controle diferente para Resident Evil Outbreak File #1 no Aethersx2(NetherSX2))
+Controle personalizado para Resident Evil Outbreak File #1 no Aethersx2(NetherSX2))
 
 Um tema apropriado para este maravilhoso jogo.
 
